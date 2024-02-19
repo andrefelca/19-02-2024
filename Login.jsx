@@ -1,5 +1,5 @@
-var login = "teste";
-var senha = "teste";
+var login = "andre";
+var senha = "1234";
 
 var txtLogin = document.getElementById("txtLogin");
 var txtSenha = document.getElementById("txtSenha");
